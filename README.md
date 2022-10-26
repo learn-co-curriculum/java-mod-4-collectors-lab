@@ -1,4 +1,4 @@
-# Collectors Lab
+# Stream Lab 3 
 
 ## Instruction
 
